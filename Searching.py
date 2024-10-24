@@ -21,4 +21,4 @@ def binary_search(num, array):
 array = [n + 1 for n in range(10)]
 
 num = int(input("Enter a number to search: "))
-binary_search(num, array)
+linear_search(num, array)
